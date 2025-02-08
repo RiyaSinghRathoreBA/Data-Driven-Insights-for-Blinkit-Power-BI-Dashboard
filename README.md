@@ -1,4 +1,6 @@
 # Data-Driven-Insights-for-Blinkit-Power-BI-Dashboard
+#### Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTlhZjBjOTktYjZkNi00OWM4LTkzYWItMjhlOTNjNTIwNzlmIiwidCI6ImM1MThkMTc4LTY3OTctNGJhMi04Y2M0LTY5OWI3MDdhM2QyZSJ9
+
 ![Image](https://github.com/user-attachments/assets/63d35f86-9ad7-4f2e-a34c-bcad5ed296d1)
 
 ##  Overview
@@ -33,31 +35,37 @@ Blinkit handles a vast volume of data related to **orders, deliveries, inventory
 - **Real-Time Data Updates (Live KPI Cards)** – Ensures up-to-date performance tracking.
 - **Interactive Filters (Slicers & Dropdowns)** – Allows custom data segmentation.
 - **Drill-Through Analysis (Clickable Reports)** – Enables deeper insights into specific data points.
+![Image](https://github.com/user-attachments/assets/da16f4b2-2ad5-4b04-b979-daaab41c9c24)
 
 ### 2️ **Sales Overview Page**
 - **Revenue by Product Category (Column Chart)** – Breaks down sales performance.
 - **Monthly Sales Trends (Line Chart)** – Identifies seasonal demand patterns.
 - **Average Order Value (KPI Card)** – Analyzes customer spending behavior.
+![Image](https://github.com/user-attachments/assets/87b5fdd9-f3a9-425c-a634-e19d8474018d)
 
 ### 3️ **Customer Insights Page**
 - **Customer Retention Rate (Gauge Chart)** – Measures repeat orders and engagement.
 - **Top Customers by Revenue (Table)** – Highlights key customers for loyalty programs.
 - **Customer Feedback Trends (Word Cloud/Sentiment Analysis)** – Extracts common themes from reviews.
+ ![Image](https://github.com/user-attachments/assets/0b1f7214-8597-4496-8f78-c14e8ec69fce)
 
 ### 4️ **Feedback Page**
 - **Net Promoter Score (Gauge Chart)** – Evaluates overall customer satisfaction.
 - **Customer Issue Trends (Bar Chart)** – Identifies recurring problems in service.
 - **Response Time Analysis (KPI Card)** – Tracks efficiency in resolving complaints.
+![Image](https://github.com/user-attachments/assets/0271a1b7-e8d9-44e1-a361-ff5e5dfd2c9f)
 
 ### 5️ **Inventory Page**
 - **Stock Levels by Product Category (Bar Chart)** – Displays current inventory.
 - **Inventory Turnover Ratio (KPI Card)** – Tracks stock movement efficiency.
 - **Low Stock Alerts (Heatmap/Table)** – Flags products needing restocking.
+![Image](https://github.com/user-attachments/assets/e788bef2-0d46-457b-8b73-b6f431e2ff9e)
 
 ### 6️ **Marketing Page**
 - **Campaign ROI Analysis (Bar/Funnel Chart)** – Compares marketing investment vs. revenue.
 - **Customer Acquisition by Channel (Pie Chart)** – Analyzes customer sources.
 - **Marketing Spend by Region (Stacked Bar Chart)** – Evaluates campaign effectiveness.
+ ![Image](https://github.com/user-attachments/assets/68e0ccc4-5b05-4c43-a5e6-fe869f24b043)
 
 ##  Insights
 - **Peak Delivery Hours Identified:** Business can allocate more resources during high-demand periods.
