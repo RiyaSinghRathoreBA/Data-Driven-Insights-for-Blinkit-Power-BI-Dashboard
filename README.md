@@ -1,4 +1,6 @@
 # Data-Driven-Insights-for-Blinkit-Power-BI-Dashboard
+![Image](https://github.com/user-attachments/assets/63d35f86-9ad7-4f2e-a34c-bcad5ed296d1)
+
 ##  Overview
 The **Blinkit Power BI Dashboard** is designed to provide **real-time insights** into key business metrics for Blinkit, a **quick-commerce platform**. This dashboard helps stakeholders monitor performance, optimize operations, and make **data-driven decisions**.
 
