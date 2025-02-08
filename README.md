@@ -67,6 +67,12 @@ Blinkit handles a vast volume of data related to **orders, deliveries, inventory
 - **Marketing Spend by Region (Stacked Bar Chart)** – Evaluates campaign effectiveness.
  ![Image](https://github.com/user-attachments/assets/68e0ccc4-5b05-4c43-a5e6-fe869f24b043)
 
+## Filter Panel
+- **Time-Based Filtering Options** – Users can filter data by Month, Quarter, Day, Year-to-Date (YTD), and custom date ranges (Last 2, 3, 6, or 9 months).
+- **Category & Attribute Selection** – Dropdown menus allow filtering by Year, Area, Product Name, Customer Name, and Segment for more granular insights.
+- **Toggle Between Quantity & Value** – A switch at the top enables users to analyze data based on either quantity or monetary value, refining the scope of analysis.
+![Image](https://github.com/user-attachments/assets/7d2375d3-c948-46ad-832c-ce3682fee47a) 
+
 ##  Insights
 - **Peak Delivery Hours Identified:** Business can allocate more resources during high-demand periods.
 - **Customer Retention Insights:** Repeat customers drive a significant portion of revenue; loyalty programs can be optimized.
