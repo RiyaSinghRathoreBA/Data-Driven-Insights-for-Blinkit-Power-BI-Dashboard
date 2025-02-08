@@ -1,5 +1,5 @@
-# Data-Driven-Insights-for-Blinkit-Power-BI-Dashboard
-#### Dashboard: https://app.powerbi.com/view?r=eyJrIjoiMTlhZjBjOTktYjZkNi00OWM4LTkzYWItMjhlOTNjNTIwNzlmIiwidCI6ImM1MThkMTc4LTY3OTctNGJhMi04Y2M0LTY5OWI3MDdhM2QyZSJ9
+# Data-Driven Insights for Blinkit: Power BI Dashboard
+ **Dashboard**: https://app.powerbi.com/view?r=eyJrIjoiMTlhZjBjOTktYjZkNi00OWM4LTkzYWItMjhlOTNjNTIwNzlmIiwidCI6ImM1MThkMTc4LTY3OTctNGJhMi04Y2M0LTY5OWI3MDdhM2QyZSJ9
 
 ![Image](https://github.com/user-attachments/assets/63d35f86-9ad7-4f2e-a34c-bcad5ed296d1)
 
