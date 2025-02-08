@@ -71,7 +71,7 @@ Blinkit handles a vast volume of data related to **orders, deliveries, inventory
 - **Time-Based Filtering Options** – Users can filter data by Month, Quarter, Day, Year-to-Date (YTD), and custom date ranges (Last 2, 3, 6, or 9 months).
 - **Category & Attribute Selection** – Dropdown menus allow filtering by Year, Area, Product Name, Customer Name, and Segment for more granular insights.
 - **Toggle Between Quantity & Value** – A switch at the top enables users to analyze data based on either quantity or monetary value, refining the scope of analysis.
-![Image](https://github.com/user-attachments/assets/7d2375d3-c948-46ad-832c-ce3682fee47a) 
+![Image](https://github.com/user-attachments/assets/c6e6be0f-5914-483a-9580-d41a3e3c7f58)
 
 ##  Insights
 - **Peak Delivery Hours Identified:** Business can allocate more resources during high-demand periods.
